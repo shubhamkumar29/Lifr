@@ -379,7 +379,9 @@ a.button.info:hover,a.button.info:focus{background-color:#61b6d9;color:#ffffff;t
 
 		<div class="top-bar-background">
 			<div class="top-bar" id="main-menu">
-
+				<a href="https://www.lifr.org.in/">
+					<img src="wp-content/uploads/lifr.png" class="header-image" alt="Live Forever" />
+				</a>
 				<div class="top-bar-right">
 
 					<ul class="menu vertical medium-horizontal" data-responsive-menu="drilldown medium-dropdown" data-parent-link="true">
