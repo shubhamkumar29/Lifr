@@ -1,0 +1,5 @@
+body .vc_row.vc_column-gap-20,
+html body .vc_row {
+  margin-left: 0;
+  margin-right: 0;
+}

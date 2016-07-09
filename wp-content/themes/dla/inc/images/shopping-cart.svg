@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>shopping cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-631.000000, -11.000000)" fill="#59B363">
+            <g id="shopping-cart" transform="translate(638.665899, 18.500000) scale(-1, 1) translate(-638.665899, -18.500000) translate(630.665899, 11.000000)">
+                <ellipse id="Oval" cx="2.19488914" cy="13.8221508" rx="1.16407982" ry="1.16407982"></ellipse>
+                <ellipse id="Oval" cx="10.6959978" cy="13.8221508" rx="1.16407982" ry="1.16407982"></ellipse>
+                <path d="M13.093337,0.0236474501 L12.6844457,2.51810421 L0,2.51810421 L0.861019956,7.7881929 C0.955243902,8.36298226 1.50888027,8.83327051 2.09135255,8.83327051 L11.6493126,8.83327051 L11.3494789,10.6625388 L1.03080931,10.6625388 L1.03080931,11.6603215 L12.1969956,11.6603215 L13.9408869,1.02146341 L15.1429157,1.02146341 L15.1429157,0.0236807095 L13.093337,0.0236807095 L13.093337,0.0236474501 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

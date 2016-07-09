@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="85px" viewBox="0 0 90 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>monitor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stats" transform="translate(-689.000000, -1136.000000)">
+            <g id="Group-7" transform="translate(581.000000, 1136.000000)">
+                <g id="monitor" transform="translate(108.000000, 0.000000)">
+                    <rect id="Rectangle-15" fill="#59B363" x="29.0769231" y="68.8594848" width="31.8461538" height="11.1288056"></rect>
+                    <rect id="Rectangle-15-Copy" fill="#59B363" x="24.2307692" y="79.29274" width="41.5384615" height="5.56440281"></rect>
+                    <rect id="Rectangle-14" fill="#82D7EB" x="0.106820913" y="0" width="89.7863582" height="75.1194379"></rect>
+                    <polyline id="Path-3" stroke="#FFFFFF" stroke-width="2" points="0.106820913 37.559719 7.17214923 37.559719 11.0094501 27.1264637 13.5747746 47.9929742 16.7814303 38.2552693 19.3467548 38.2552693 19.9880859 33.3864169 21.2707482 42.4285714 23.8360727 30.6042155 25.118735 43.1241218 27.0427284 35.4730679 27.6840595 41.0374707 28.9667218 36.1686183 36.6626953 36.1686183 39.2280198 20.8665105 42.4346755 57.7306792 46.2826623 29.9086651 47.5653245 41.0374707 48.8479868 31.9953162 50.130649 41.0374707 51.4133113 34.0819672 52.6959736 36.8641686 89.8931791 36.8641686"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

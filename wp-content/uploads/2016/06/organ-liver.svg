@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="39px" viewBox="0 0 75 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>organ-liver@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="41.9834746 39.4067797 0 39.4067797 0 20.0529661 0 0.699152542 41.9834746 0.699152542"></polygon>
+        <polygon id="path-3" points="28.9573395 0.699152542 0.159279661 0.699152542 0.159279661 19.574763 28.9573395 19.574763 28.9573395 0.699152542"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Types-of-donation" transform="translate(-596.000000, -1535.000000)">
+            <g id="organ-liver" transform="translate(596.000000, 1534.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.572034)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M0,19.6919492 L0,32.4940678 C0,37.6576271 5.46228814,40.9944915 10.0563559,38.6364407 L38.2322034,24.1741525 C40.5355932,22.9919492 41.9834746,20.6199153 41.9834746,18.0317797 L41.9834746,7.6029661 C41.9834746,3.79067797 38.8932203,0.699152542 35.079661,0.699152542 L18.9927966,0.699152542 C8.5029661,0.699152542 0,9.20211864 0,19.6919492" id="Fill-1" fill="#85D3E7" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(45.762712, 0.572034)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M0.159279661,4.90271186 L0.159279661,15.3658475 C0.159279661,18.5094915 3.48470339,20.5408475 6.28258475,19.105678 L26.6673305,8.64254237 C30.5914831,6.62771186 29.1588559,0.698898305 24.747839,0.698898305 L4.36309322,0.698898305 C2.04190678,0.698898305 0.159279661,2.58152542 0.159279661,4.90271186" id="Fill-4" fill="#85D3E7" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

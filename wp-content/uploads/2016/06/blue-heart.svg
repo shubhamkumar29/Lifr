@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="123px" height="101px" viewBox="0 0 123 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>blue-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stats" transform="translate(-245.000000, -2112.000000)">
+            <g id="blue-heart" transform="translate(245.000000, 2112.000000)">
+                <path d="M114.062446,8.93755416 C103.127766,-1.99712601 85.4014656,-1.9994453 74.4596139,8.94240639 L22.1385643,61.263456 L61.736544,100.861436 L114.057594,48.5403861 C124.994954,37.6030262 124.99953,19.8746386 114.062446,8.93755416 Z" id="Rectangle-51-Copy-2" fill="#005F82"></path>
+                <path d="M8.93755416,8.93755416 C19.8722343,-1.99712601 37.5985344,-1.9994453 48.5403861,8.94240639 L100.861436,61.263456 L61.263456,100.861436 L8.94240639,48.5403861 C-1.99495359,37.6030262 -1.99953024,19.8746386 8.93755416,8.93755416 Z" id="Rectangle-51" fill="#82D7EB"></path>
+            </g>
+        </g>
+    </g>
+</svg>
