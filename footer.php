@@ -46,21 +46,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TK6TG6');</script>
 
 <!-- End Google Tag Manager -->
-<link rel='stylesheet' id='register-button-css'  href='../wp-content/themes/dla/css/min/register-button.min.css?ver=4.5.3' type='text/css' media='all' />
-<script type='text/javascript' src='../wp-content/themes/wp-forge/js/what-input.min.js?ver=6.2.1.2'></script>
-<script type='text/javascript' src='../wp-content/themes/wp-forge/js/wpforge-functions.js?ver=6.2.1.2'></script>
-<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<link rel='stylesheet' id='register-button-css'  href='wp-content/themes/dla/css/min/register-button.min.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/themes/wp-forge/js/what-input.min.js?ver=6.2.1.2'></script>
+<script type='text/javascript' src='wp-content/themes/wp-forge/js/wpforge-functions.js?ver=6.2.1.2'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"https:\/\/www.donatelife.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"https:\/\/www.donatelife.net\wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
 
-<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
-<script type='text/javascript' src='../wp-content/themes/dla/js/min/foundation.min.js?ver=4.5.3'></script>
-<script type='text/javascript' src='../wp-content/themes/wp-forge/js/app.js?ver=6.2'></script>
-<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
-<script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='wp-content/themes/dla/js/min/foundation.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='wp-content/themes/wp-forge/js/app.js?ver=6.2'></script>
+<script type='text/javascript' src='wp-includes/jswp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"16d72b893b","applicationID":"24030961","transactionName":"MgAGZ0oFXBECWxELVwtKJVBMDV0MTEgEBV0=","queueTime":0,"applicationTime":607,"atts":"HkcFEQIfTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

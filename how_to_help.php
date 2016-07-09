@@ -12,7 +12,7 @@
                 <header class="entry-header">
                     <div class="template-image-container">
 
-                        <div class="dla-featured-image" style="background-image: url('../wp-content/uploads/2016/06/DLA-Types-of-donation.jpg');"></div>
+                        <div class="dla-featured-image" style="background-image: url('wp-content/uploads/2016/06/DLA-Types-of-donation.jpg');"></div>
                         <div class="overlay">
                             <h1 class="entry-title-page">Transplants</h1>
                             <h2>Living donor transplants are a viable alternative for patients in need of new organs. Many different types of organs can be supplied by living donors </h2>                          </div>
@@ -82,7 +82,7 @@
                                                 <div class="button-swirl">
                                                     <a href="https://registerme.org/register_profile.aspx" target="_blank">
                                                         <div class="button-swirl-image-background corner">
-                                                            <img src="../wp-content/themes/dla/inc/images/button-swirl.svg">
+                                                            <img src="wp-content/themes/dla/inc/images/button-swirl.svg">
                                                         </div>
                                                         <div class="button-swirl-text">
                                                             <h2>Become a Donor</h2>

@@ -13,7 +13,7 @@
                 <header class="entry-header">
                     <div class="template-image-container">
 
-                        <div class="dla-featured-image" style="background-image: url('https://www.donatelife.net/wp-content/uploads/2016/06/story-of-hope-benjamin-e1465676443719.jpg');"></div>
+                        <div class="dla-featured-image" style="background-image: url('wp-content/uploads/2016/06/story-of-hope-benjamin-e1465676443719.jpg');"></div>
                     </div>
                 </header>
 
@@ -30,7 +30,7 @@
                                                 <div class="button-swirl" style="top:48%;">
                                                     <a href="become_donor.php" target="_blank">
                                                         <div class="button-swirl-image-background corner">
-                                                            <img src="../wp-content/themes/dla/inc/images/button-swirl.svg">
+                                                            <img src="wp-content/themes/dla/inc/images/button-swirl.svg">
                                                         </div>
                                                         <div class="button-swirl-text">
                                                             <h2>Become a donor</h2>
@@ -87,11 +87,11 @@
 
                                     <div class="wpb_text_column wpb_content_element ">
                                         <div class="wpb_wrapper">
-                                            <div id="organ"><img src="../wp-content/uploads/2016/06/organ-lung.svg" /><br />
+                                            <div id="organ"><img src="wp-content/uploads/2016/06/organ-lung.svg" /><br />
                                                 Organs</div>
-                                            <div id="cornea"><img src="../wp-content/uploads/2016/06/organ-cornea.svg" /><br />
+                                            <div id="cornea"><img src="wp-content/uploads/2016/06/organ-cornea.svg" /><br />
                                                 Cornea</div>
-                                            <div id="tissue"><img src="../wp-content/uploads/2016/06/organ-tissue.svg" /><br />
+                                            <div id="tissue"><img src="wp-content/uploads/2016/06/organ-tissue.svg" /><br />
                                                 Tissue</div>
                                             <h4>Donations </h4>
                                             <h4 id="lives"> are made to people with damaged organs that need to be replaced.</h4>

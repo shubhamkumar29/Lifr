@@ -12,7 +12,7 @@
     		<header class="entry-header">
             <div class="template-image-container">
 
-              <div class="dla-featured-image" style="background-image: url('../wp-content/uploads/2016/06/DLA-Types-of-donation.jpg');"></div>
+              <div class="dla-featured-image" style="background-image: url('wp-content/uploads/2016/06/DLA-Types-of-donation.jpg');"></div>
                                   <div class="overlay">
                   <h1 class="entry-title-page">Transplants</h1>
                                               <h2>Living donor transplants are a viable alternative for patients in need of new organs. Many different types of organs can be supplied by living donors </h2>                          </div>
@@ -150,7 +150,7 @@
 <div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-heart.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-heart.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Heart</a></h2>
 </div>
@@ -160,7 +160,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-lung.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-lung.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Lung</a></h2>
 </div>
@@ -170,7 +170,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-kidney.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-kidney.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Kidney</a></h2>
 </div>
@@ -180,7 +180,7 @@
 </div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-liver.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-liver.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Liver</a></h2>
 </div>
@@ -190,7 +190,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-intestines.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-intestines.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Intestines</a></h2>
 </div>
@@ -200,7 +200,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-pancreas.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-pancreas.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Pancreas</a></h2>
 </div>
@@ -210,7 +210,7 @@
 </div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-cornea.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-cornea.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Cornea</a></h2>
 </div>
@@ -220,7 +220,7 @@
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  organ">
 		<div class="wpb_wrapper">
-			<p><a href="#3"><img class="alignnone" src="../wp-content/uploads/2016/06/organ-tissue.svg" width="56" height="50" /></a></p>
+			<p><a href="#3"><img class="alignnone" src="wp-content/uploads/2016/06/organ-tissue.svg" width="56" height="50" /></a></p>
 <div>
 <h2><a href="#3">Tissue</a></h2>
 </div>
@@ -236,7 +236,7 @@
     <div class="button-swirl">
       <a href="https://registerme.org/register_profile.aspx" target="_blank">
         <div class="button-swirl-image-background corner">
-          <img src="../wp-content/themes/dla/inc/images/button-swirl.svg">
+          <img src="wp-content/themes/dla/inc/images/button-swirl.svg">
         </div>
         <div class="button-swirl-text">
           <h2>Become a Donor</h2>

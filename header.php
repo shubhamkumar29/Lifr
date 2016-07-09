@@ -19,7 +19,7 @@
 <!--<link rel="alternate" type="application/rss+xml" title="Donate Life America &raquo; Feed" href="https://www.donatelife.net/feed/" />-->
 <!--<link rel="alternate" type="application/rss+xml" title="Donate Life America &raquo; Comments Feed" href="https://www.donatelife.net/comments/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.donatelife.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.donatelife.net\wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
 			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 -->		<style type="text/css">
@@ -36,20 +36,19 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='wpforge_fonts-css'  href='../wp-content/themes/wp-forge/fonts/fonts.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wpforge_motion_ui-css'  href='../wp-content/themes/wp-forge/css/motion-ui.css' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='../wp-content/uploads/js_composer/js_composer_front_custom.css' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_custom_css-css'  href='../wp-content/uploads/js_composer/custom.css' type='text/css' media='all' />
-<link rel='stylesheet' id='default-dla-styles-css'  href='../wp-content/themes/dla/css/min/style.min.css' type='text/css' media='all' />
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='../wp-content/plugins/duracelltomi-google-tag-manager%202/js/gtm4wp-form-move-tracker.js?ver=1.2'></script>
-<script type='text/javascript' src='../wp-content/plugins/duracelltomi-google-tag-manager%202/js/gtm4wp-social-tracker.js?ver=1.2'></script>
-<script type='text/javascript' src='../wp-content/themes/dla/js/min/header-menu.min.js?ver=4.5.3'></script>
+<link rel='stylesheet' id='wpforge_fonts-css'  href='wp-content/themes/wp-forge/fonts/fonts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforge_motion_ui-css'  href='wp-content/themes/wp-forge/css/motion-ui.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/uploads/js_composer/js_composer_front_custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='wp-content/uploads/js_composer/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='default-dla-styles-css'  href='wp-content/themes/dla/css/min/style.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/duracelltomi-google-tag-manager%202/js/gtm4wp-form-move-tracker.js?ver=1.2'></script>
+<script type='text/javascript' src='wp-content/plugins/duracelltomi-google-tag-manager%202/js/gtm4wp-social-tracker.js?ver=1.2'></script>
+<script type='text/javascript' src='wp-content/themes/dla/js/min/header-menu.min.js?ver=4.5.3'></script>
 <link rel='https://api.w.org/' href='https://www.donatelife.net/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.donatelife.net/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.donatelife.net/wp-includes/wlwmanifest.xml" />
+
 <meta name="generator" content="WordPress 4.5.3" />
 <link rel='shortlink' href='https://www.donatelife.net/?p=135' />
 <link rel="alternate" type="application/json+oembed" href="https://www.donatelife.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.donatelife.net%2Ftypes-of-donation%2F" />
@@ -66,11 +65,11 @@ img.emoji {
 
                     </script>
                     <!-- / Simple Universal Google Analytics plugin --><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="../wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.donatelife.net/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css" id="wpforge-custom-header-css"></style>
-<link rel="icon" href="../wp-content/uploads/2016/06/cropped-favicon-32x32.png" sizes="32x32" />
-<link rel="icon" href="../wp-content/uploads/2016/06/cropped-favicon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="../wp-content/uploads/2016/06/cropped-favicon-180x180.png" />
-<meta name="msapplication-TileImage" content="../wp-content/uploads/2016/06/cropped-favicon-270x270.png" />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css" id="wpforge-custom-header-css"></style>
+<link rel="icon" href="wp-content/uploads/2016/06/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2016/06/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2016/06/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="wp-content/uploads/2016/06/cropped-favicon-270x270.png" />
 
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script type="text/javascript">
@@ -366,7 +365,7 @@ a.button.info:hover,a.button.info:focus{background-color:#61b6d9;color:#ffffff;t
 
 		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="large">
 			<a href="https://www.lifr.org.in/">
-				<img src="../wp-content/uploads/lifr.png" class="header-image" alt="Live Forever" />
+				<img src="wp-content/uploads/lifr.png" class="header-image" alt="Live Forever" />
 			</a>
 
 			<div class="main-nav-menu-closed main-nav-submenu">
@@ -380,9 +379,7 @@ a.button.info:hover,a.button.info:focus{background-color:#61b6d9;color:#ffffff;t
 
 		<div class="top-bar-background">
 			<div class="top-bar" id="main-menu">
-				<a href="https://www.donatelife.net/">
-					<img src="../wp-content/uploads/lifr.png" class="header-image" alt="Live Forever" />
-				</a>
+
 				<div class="top-bar-right">
 
 					<ul class="menu vertical medium-horizontal" data-responsive-menu="drilldown medium-dropdown" data-parent-link="true">
@@ -394,6 +391,7 @@ a.button.info:hover,a.button.info:focus{background-color:#61b6d9;color:#ffffff;t
 								<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="index.php#34">Pledge</a></li>
 							</ul>
 						</li>
+
 						<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36"><a href="#">Donate</a>
 							<ul class="menu vertical nested">
 								<li id="menu-item-6460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6460"><a href="who_can_donate.php">Who can donate</a></li>
@@ -408,7 +406,8 @@ a.button.info:hover,a.button.info:focus{background-color:#61b6d9;color:#ffffff;t
 						</li>
 						<li class="header-register menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a target="_blank" href="become_donor.php">Register to Be A Donor</a>
 						</li>
-					</ul>            </div><!-- second end top-bar -->
+					</ul>
+				</div><!-- second end top-bar -->
 			</div><!-- end top-bar -->
 		</div>
 	</div><!-- .row -->

@@ -11,7 +11,7 @@
     		<header class="entry-header">
             <div class="template-image-container">
 
-              <div class="dla-featured-image" style="background-image: url('../wp-content/uploads/2016/06/donate-life-baby-1.jpg');"></div>
+              <div class="dla-featured-image" style="background-image: url('wp-content/uploads/2016/06/donate-life-baby-1.jpg');"></div>
                                                                 </div>
     		</header>
 
